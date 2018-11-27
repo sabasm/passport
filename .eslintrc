@@ -1,0 +1,15 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 2016,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "arrowFunctions": true,
+      "modules": false
+    }
+  },
+  "rules": {
+      "semi": "off",
+      "space-in-parens":"off",
+      "quotes": ["warn", "backtick"]
+  }
+}
