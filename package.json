@@ -7,8 +7,8 @@
   "scripts": {
     "format": "prettier --write \"**/*.+(js|html)\"",
     "validate": "eslint \"**/*.+(js)\"",
-    "dev": "nodemon app.js",
-    "start": "node app.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.18.3",
